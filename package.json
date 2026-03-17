@@ -1,0 +1,21 @@
+{
+  "name": "splitwise-",
+  "version": "1.0.0",
+  "description": "A splitwise clone ",
+  "homepage": "https://github.com/Rushalverma/Splitwise-#readme",
+  "bugs": {
+    "url": "https://github.com/Rushalverma/Splitwise-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rushalverma/Splitwise-.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  }
+}
